@@ -1,4 +1,4 @@
-/****** Script for SelectTopNRows command from SSMS  ******/
+/****** Script for Data Exploaration using Covid19 data  ******/
 SELECT *
   FROM [PortfolioProject].[dbo].[CovidDeaths]
   order by 3,4
