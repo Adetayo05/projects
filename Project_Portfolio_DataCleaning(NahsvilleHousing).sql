@@ -1,4 +1,4 @@
-/****** Script for SelectTopNRows command from SSMS  ******/
+/****** Data Cleaning using Nashville Housing Data set ******/
 SELECT *
   FROM [PortfolioProject].[dbo].[NashileHousing]
 
